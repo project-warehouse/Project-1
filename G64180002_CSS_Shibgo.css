@@ -1,0 +1,7 @@
+.column { float: left; width: 50%;}
+		.row:after {content: ""; display: table; clear: both;}
+		
+body {background-color : lightblue; }
+
+h1 {color: #47290E;}
+h2 {color: red;}
